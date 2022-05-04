@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="" width="100"/>
+
+
   
   <div id="badges">
   <a href="https://twitter.com/xSeanxMillerx">
