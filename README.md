@@ -20,4 +20,4 @@
 
 </div>
 
-https://giphy.com/stickers/transparent-hvRJCLFzcasrR4ia7z?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=
+
