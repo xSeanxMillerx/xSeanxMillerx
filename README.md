@@ -1,6 +1,7 @@
 <div id="header" align="center">
 
 
+<img width="122" border-radius="50%" alt="pp-black-screen" src="https://user-images.githubusercontent.com/102653304/166836891-92808c96-d895-4551-ba6b-0b9457c9f176.png" >
 
   
   <div id="badges">
@@ -20,9 +21,7 @@
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 ---
 
