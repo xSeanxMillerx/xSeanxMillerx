@@ -40,10 +40,11 @@ I am learning web development.
 </div>
 
 ---
-
+ 
+<!--
 ### :fire: My Stats :
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xSeanxMillerx&theme=dark&background=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xSeanxMillerx&layout=compact&theme=vision-friendly-dark)
-
+-->
