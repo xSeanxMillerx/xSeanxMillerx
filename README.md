@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+  <img src="" width="100"/>
   
   <div id="badges">
   <a href="https://twitter.com/xSeanxMillerx">
